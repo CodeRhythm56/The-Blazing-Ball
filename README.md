@@ -10,7 +10,7 @@ This game implements various game mechanics with its own unique code that brings
 4. Doors and Traps
 5. Objects influenced by gravity and reverse gravity
 6. Buttons and pressure plates to trigger events
-7. Music
+7. Force field
 8. Physics and friction
 ## Visuals
 <img src="Images/image1.png" width="600">
