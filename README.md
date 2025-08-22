@@ -13,4 +13,5 @@ This game implements various game mechanics with its own unique code that brings
 7. Music
 8. Physics and friction
 ## Visuals
-![Image 1](http://url/to/img.png)
+<img src="Images/image1.png" width="600">
+<img src="Images/image2.png" width="600">
