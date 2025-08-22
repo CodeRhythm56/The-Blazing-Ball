@@ -13,7 +13,8 @@ This game implements various game mechanics with its own unique code that brings
 7. Force field
 8. Physics and friction
 ## Visuals
-<img src="Images/image1.png" width="600">
-<img src="Images/image2.png" width="600">
+<img src="Images/image1.png" width="600"><img/>
+<img src="Images/image2.png" width="600"><img/>
 ## Additional
-The scripts may not be documended as it was uploaded directly from the project. The code should be self explanatory as it uses quite simple concepts, if you are unable to make sense of it you can always ask your prefered ai companion for help.  
+The scripts may not be documended as it was uploaded directly from the project. The code should be self explanatory as it uses quite simple concepts, if you are unable to make sense of it you can always ask your prefered ai companion for help.  </br>
+If you like the game or appreciate my effort, you may leave a review in the playstore.
